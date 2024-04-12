@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoyoLiuuu
-- 👀 I’m interested in Artificial Ingelligence, Quantum Computation, Computational Biolody/Chemistry, Cybersecurity, Networking, Cryptography, and so much more :)
-- 🌱 I’m currently learning Quantum Computing, Python, and CISCO networking. 
+- 👀 I’m interested in Artificial Ingelligence, Computational Chemistry, Quantum Computing, Cybersecurity, Cryptography (specifically post-quantum cryptography), and so much more :)
+- 🌱 I’m currently learning Quantum Computing w/PennyLane, Python, and CISCO networking. 
 - 💞️ I’m looking to collaborate on ANYTHING FUN! 
 - 📫 How to reach me - liuyimeng01@gmail.com and discord: Mememememe#3968
 
